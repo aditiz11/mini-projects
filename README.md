@@ -60,7 +60,8 @@ Each folder contains its own:
    cd javascript-mini-projects
 ```
 Open any project folder and launch index.html in your browser.
-
+```
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditiyerra11)  
 - 🖥️ [GitHub](https://github.com/aditiz11)
 
+```
